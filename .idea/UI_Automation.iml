@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="backports (v3.11.1, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.2, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.2, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="commonwatir (v4.0.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber (v3.1.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-core (v3.1.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-expressions (v5.0.13, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-tag_expressions (v1.1.1, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-wire (v0.0.1, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gherkin (v5.0.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="metaclass (v0.0.4, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mocha (v1.3.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.13.1, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_test (v0.1.2, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="os (v1.0.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.10.4, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry-nav (v0.2.4, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v12.3.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.9.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="slop (v3.6.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spoon (v0.0.6, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="taza (v2.1.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.20.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.5, RVM: jruby-9.0.5.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="watir (v6.1.0, RVM: jruby-9.0.5.0) [gem]" level="application" />
+  </component>
+</module>
