@@ -1,3 +1,3 @@
 ---
-isolation:
-    :url: https://imaging-workbench-qa.aws-dev.manheim.com/admin
+qa:
+    :url: https://www.google.com

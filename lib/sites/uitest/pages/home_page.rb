@@ -4,13 +4,8 @@ require 'taza/page'
 module Uitest
   class HomePage < ::Taza::Page
 
-    element(:username) { browser.element(id: 'username') }
-    element(:password) { browser.element(id: 'password') }
-    element(:login) { browser.element(id: 'SearchButton') }
-
-    element(:footer) { browser.footer }
-    element(:copyright) { footer.p(title: 'All Rights Reserved') }
-    element(:view_service_map) { browser.link(text: 'View Service Map') }
+    element(:search_bar) { browser.input(name: 'q') }
+    element(:search_button) { browser.element(name: 'btnK') }
 
   end
 end

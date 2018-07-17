@@ -2,7 +2,7 @@ require 'os'
 require 'pry'
 require 'pry-nav'
 
-ENV['TAZA_ENV'] ||= 'isolation'
+ENV['TAZA_ENV'] ||= 'qa'
 ENV['BROWSER'] ||= 'chrome'
 
 PROJECT_ROOT = File.expand_path(File.join(File.dirname(__FILE__), '../..'))

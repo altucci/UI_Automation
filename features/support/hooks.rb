@@ -1,3 +1,4 @@
+=begin
 After do |scenario|
   if scenario.failed?
     begin
@@ -10,3 +11,4 @@ After do |scenario|
 
   @site.browser.close
 end
+=end
